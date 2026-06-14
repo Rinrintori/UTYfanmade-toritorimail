@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex">
+
+<meta property="og:title" content="＊ だれかの メールだ。(1)">
+<meta property="og:description" content="ふるいメールにしては　新しいかも？">
+<meta property="og:type" content="website">
+
+<meta name="twitter:card" content="summary">
+
+<title>＊ ふるい　だれかの メールだ。</title>
+
+<style>
+body{
+    background:black;
+    margin:0;
+    min-height:120vh;
+    display:flex;
+    justify-content:center;
+    align-items:flex-start;
+    font-family:"JFドット東雲ゴシック14", monospace;
+}
+
+.mail-box{
+    margin-top:70px;
+    margin-bottom: 100px;
+    width:720px;
+    
+    border:7px solid white;
+    
+    color:white;
+    
+    padding:50px;
+    
+    font-size:28px;
+    line-height:1.8;
+    
+    box-sizing:border-box;
+}
+
+p{
+    margin:0 0 45px 0;
+}
+</style>
+</head>
+
+<body>
+
+<div class="mail-box">
+
+<p>「ねらった　まとは<br>
+けっして　はずさず　あいての　あくじに<br>
+しゅうしふを　うつ</p>
+
+<p>ボクが　ずっとわすれられない　ことば<br>
+そのもの。</p>
+
+<p>いきてきたなかで　わすれることもない。</p>
+
+<p>ふるさとに　いたときでさえ　おとなから<br>
+おしえられてきた　もの。</p>
+
+<p>…ねらった　まとは　はずさない。</p>
+
+<p>だけど　もし　うつべき「まと」に　かぞくがいたら？</p>
+
+<p>たいせつなトモダチや　おさななじみが<br>
+  こどもがいたら…？</p>
+
+<p>それすらも　あくと　きめつけて</p>
+
+<p>すべてを　ただしいすがたに…<br>
+あるべきすがたとして　ふかい　キズあとを<br>
+のこせるだろうか？</p>
+
+<p>ボクは…　こわい。</p>
+
+<p>うつことに　おじけたわけじゃない。</p>
+
+<p>それで　ボクが　しんじてきたものが<br>
+ボクが　「ボク」である　なにかが<br>
+くずれさってしまうんじゃ　ないかって。</p>
+
+<p>じぶんが　しんじる　とうぜんのさばきとして</p>
+
+<p>うたがわなかった　「まと」が。</p>
+
+<p>こうふくな　みらいへ　みちびいてくれる<br>
+これからの「ともだち」だったら…</p>
+
+<p>さいごまで　ボクを　しんじて<br>
+おくりだしてくれた　かれらだったら…？</p>
+
+<p>ボクは…　どうしたらいいんだろう。</p>
+
+<p>…わからないよ。</p>
+
+<p>りかいする　チャンスすら　うしなった<br>
+ボクには　もう　わからない。」</p>
+
+</div>
+
+</body>
+</html>
